@@ -1,0 +1,1 @@
+I completed a Norway Climate Data Science project using Python. I analysed 53 years of temperature data (648 records), built visualisations showing seasonal patterns and a long-term warming trend, and trained a Random Forest machine learning model that achieved 94.4% accuracy (R²=0.944) in predicting monthly temperatures.
